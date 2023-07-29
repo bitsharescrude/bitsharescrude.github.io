@@ -1,7 +1,6 @@
-# stakingwithmultiplepools
-Staking platform with multiple pools
+# staking #staking platform #tokenstaking
+Staking platform for any token ERC20
 
+Watch video how to edit: https://youtu.be/LoS2TuVlQKA
 
-Watch video how to 👉 https://youtu.be/Z_l9_DHWUW8
-
-Join my telegram 👉 https://t.me/automatecrypto
+Join my telegram: https://t.me/automatecrypto
