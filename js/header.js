@@ -5,7 +5,7 @@ console.log("############################################");
 const _NETWORK_ID = 369;
 let _CONTRACT_DATA = {};
 
-const _API_URL = 'https://scan.pulsechain.com/api/eth-rpc '
+const _API_URL = 'https://scan.pulsechain.com/api'
 
 _CONTRACT_DATA[_NETWORK_ID] = {
     network_name: "PulseChain",
